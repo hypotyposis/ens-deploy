@@ -1,0 +1,15 @@
+{
+  "name": "ens-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ensdomains/ens-contracts": "0.0.7",
+    "@truffle/hdwallet-provider": "^1.5.1"
+  }
+}
